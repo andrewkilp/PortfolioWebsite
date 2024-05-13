@@ -95,6 +95,7 @@ body {
     }
     to {
         width:50vw;
+        color:black;
         background-color: #fff;
     }
 }
