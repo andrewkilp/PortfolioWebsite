@@ -108,3 +108,19 @@ body {
         background-color: #1a1919;
     }
 }
+#about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: flex;
+    height: 100vh;
+    width:100vw;
+    background-color: #151515;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-size: 100px;
+}
+#landingPage p {
+    color: #FFF;
+    font-size: 500spx;
+}
